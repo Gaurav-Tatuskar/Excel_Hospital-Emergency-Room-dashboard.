@@ -17,3 +17,5 @@ The objective of this project is to analyze hospital emergency room data to moni
 - Observed that higher wait times lead to lower patient satisfaction
 - Found patterns in patient visits across different time periods
 - Highlighted areas where hospital services can be improved
+## Final Conclusion
+The Hospital Emergency Room Dashboard provides valuable insights into patient flow and service efficiency. By analyzing wait times and satisfaction levels, hospitals can take necessary actions to optimize operations, reduce delays, and improve overall patient experience.

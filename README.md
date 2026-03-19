@@ -12,4 +12,8 @@ The objective of this project is to analyze hospital emergency room data to moni
 3. Data Cleaning $ Data Quality.
 4. Data Modeling (Power Pivot)
 5. Dashboard Creation
-
+## Project Insights
+- Identified peak hours with the highest patient inflow
+- Observed that higher wait times lead to lower patient satisfaction
+- Found patterns in patient visits across different time periods
+- Highlighted areas where hospital services can be improved

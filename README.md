@@ -8,11 +8,11 @@ The objective of this project is to analyze hospital emergency room data to moni
 4. What are the peak hours or busiest days in the emergency room?
 ## Project Process
 1. Data Collection
-Gathered emergency room patient data from the dataset.
+- Gathered emergency room patient data from the dataset.
 2. Data Connection (Import data using power query)
 3. Data Cleaning $ Data Quality.
 4. Data Modeling (Power Pivot)
 5. Dashboard Creation
-Designed interactive charts and visuals
-Created KPIs for quick insights
-Added filters for better user interaction
+- Designed interactive charts and visuals
+- Created KPIs for quick insights
+- Added filters for better user interaction

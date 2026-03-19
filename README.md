@@ -6,6 +6,7 @@ The objective of this project is to analyze hospital emergency room data to moni
 2. What is the average waiting time for patients?
 3. Are longer wait times affecting patient satisfaction?
 4. What are the peak hours or busiest days in the emergency room?
+5. How can hospital management improve operational efficiency?
 ## Project Process
 1. Understanding of Data
 2. Data Connection (Import data using power query)
